@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>🌟 Hey! Arindam here – your friendly neighborhood coder 🧑‍💻 tech explorer 🚀 and digital dreamer 💭 ready to build, break and innovate! 🔥<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>🌟 Hey! Reetika here – your go-to Associate Manager 🧠✨ leading with vision, managing with heart ❤️, and always pushing boundaries 🚀 to make things happen! 🔥 <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
 
