@@ -1,4 +1,9 @@
-<img width=100% src="Git.png?type=waving&color=6499E9&height=90&section=header"/>
+<div style="position: relative; height: 250px; overflow: hidden;">
+  <video autoplay muted loop playsinline style="width: 100%; height: auto; object-fit: cover;">
+    <source src="https://raw.githubusercontent.com/CodewithArindam0018/CodewithArindam0018/main/video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <div id="header" align="center">
 
